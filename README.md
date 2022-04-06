@@ -20,4 +20,4 @@
 
 ![sql](https://github.com/Irinel01/Data_Science/blob/main/10_Certif_Advanced%20SQL.png)
 
-Links: [Kaggle  ](https://www.kaggle.com/irinel01)  ,     [GitHub](https://github.com/Irinel01/Data_Science)
+Links: [Kaggle  ](https://www.kaggle.com/irinel01)  ,    [GitHub](https://github.com/Irinel01/Data_Science)
