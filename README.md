@@ -6,3 +6,4 @@
 ![mywork2](https://github.com/Irinel01/Data_Science/blob/main/06_my_work.PNG)
 ![submission1](https://github.com/Irinel01/Data_Science/blob/main/03_my_submissions.PNG)
 ![submission2](https://github.com/Irinel01/Data_Science/blob/main/04_my_submissions.PNG)
+![python](https://github.com/Irinel01/Data_Science/blob/main/07_Certif_%20Python.png)
