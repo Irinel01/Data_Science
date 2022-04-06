@@ -9,3 +9,4 @@
 ![python](https://github.com/Irinel01/Data_Science/blob/main/07_Certif_%20Python.png)
 ![ml](https://github.com/Irinel01/Data_Science/blob/main/08_Certif_Intermediate%20Machine%20Learning.png)
 ![featureseng](https://github.com/Irinel01/Data_Science/blob/main/09_Certif_Feature%20Engineering.png)
+![sql](https://github.com/Irinel01/Data_Science/blob/main/10_Certif_Advanced%20SQL.png)
