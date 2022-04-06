@@ -39,4 +39,4 @@
 
 
 
-Links: [Kaggle](https://www.kaggle.com/irinel01)      [GitHub](https://github.com/Irinel01/Data_Science)
+Links: [Kaggle](https://www.kaggle.com/irinel01)      [  GitHub](https://github.com/Irinel01/Data_Science)
